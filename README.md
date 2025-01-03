@@ -10,5 +10,6 @@ ld -o fizzbuzz fizzbuzz.o -lSystem -L/Library/Developer/CommandLineTools/SDKs/Ma
 Then run the program from the terminal:
 
 ```bash
+chmod +x build.sh
 ./build.sh
 ```
