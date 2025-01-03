@@ -1,4 +1,5 @@
 section .data
+    ; create strings
     fizz db 'Fizz', 0    
     buzz db 'Buzz', 0    
     nl db 10             
